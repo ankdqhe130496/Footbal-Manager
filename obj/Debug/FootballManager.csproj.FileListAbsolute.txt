@@ -1,0 +1,7 @@
+C:\PRN292\FootbalManager\bin\FootbalManager.dll.config
+C:\PRN292\FootbalManager\bin\FootbalManager.dll
+C:\PRN292\FootbalManager\bin\FootbalManager.pdb
+C:\PRN292\FootbalManager\obj\Debug\FootballManager.csprojAssemblyReference.cache
+C:\PRN292\FootbalManager\obj\Debug\FootballManager.csproj.CoreCompileInputs.cache
+C:\PRN292\FootbalManager\obj\Debug\FootbalManager.dll
+C:\PRN292\FootbalManager\obj\Debug\FootbalManager.pdb
