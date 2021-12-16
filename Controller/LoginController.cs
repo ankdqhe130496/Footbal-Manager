@@ -10,7 +10,7 @@ namespace FootbalManager.Controller
         Models.LoginDao loginDAO = new Models.LoginDao();
         public Entities.Accout Login(string account, string password)
         {
-            if(account.Equals("") || password.Equals(""))
+            if(account.Trim().Equals("") || password.Trim().Equals(""))
             {
                 return null;
             } else
